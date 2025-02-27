@@ -1,4 +1,4 @@
-# Corner Grocer Tracker
+[# Corner Grocer Tracker
 
 ## Overview
 The **Corner Grocer Tracker** is a C++ program that tracks how many times each grocery item is purchased. It allows users to:
@@ -42,3 +42,6 @@ This project showcases file I/O, object-oriented programming, and efficient data
 - Used **consistent naming conventions** for clarity.
 - Added **comments** explaining core logic.
 - Designed functions to be **modular and reusable**.
+
+## Repository Link
+[CornerGrocerTracker GitHub Repository](https://github.com/JakeTheJacobJake/CornerGrocer/tree/main)
